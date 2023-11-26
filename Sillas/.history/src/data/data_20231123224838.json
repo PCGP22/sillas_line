@@ -1,0 +1,52 @@
+{
+    "etapas":{
+        "edad antigua":{
+            "nombre":"Edad antigüa",
+            "años":"(3,300 A.C. - 476 D.C.)",
+            "sillas":[
+                {
+                    "nombre": "Trono de Tutankhamon",
+                    "año": "1336 A.C.",
+                    "autor": "Anónimo",
+                    "descripcion": "Trono elaborado en madera, oro y vidrio y piedras semipreciosas, su relevancia radica en lo detallado de su trabajo en comparación a las primeras sillas que eran más rústicas.",
+                    "imagen": "https://www.ecured.cu/images/f/fc/Trono_de_Tutankam%C3%B3n.jpg"
+                },
+                {
+                    "nombre": "Curul",
+                    "año": "753 A.C.",
+                    "autor": "Anónimo",
+                    "descripcion": "Silla plegable fabricado en marfil y cuero utilizada por autoridades del mismo nombre 'curul'. Primera silla plegable en la historia",
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNuWoiaPet_rZ0BoAP-h_hKekql-G5NbRcV9chl5X-fQnHyPt5Kvu0a-7cGdWpbS7mFt4&usqp=CAU"
+                }
+            ]
+        },
+        "medioevo":{
+            "nombre":"Medioevo",
+            "años":"(476 - 1500)",
+            "sillas":[
+
+            ]
+        },
+        "renacimiento":{
+            "nombre":"Renacimiento",
+            "años":"(Siglo XV - Siglo XVI)",
+            "sillas":[
+
+            ]
+        },
+        "pre modernidad":{
+            "nombre":"Pre-modernidad",
+            "años":"(Siglo XVI - 1900)",
+            "sillas":[
+
+            ]
+        },
+        "modernidad":{
+            "nombre":"Modernidad",
+            "años":"(1900 - actualidad)",
+            "sillas":[
+
+            ]
+        }
+    }
+}

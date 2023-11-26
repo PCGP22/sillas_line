@@ -1,0 +1,179 @@
+{
+    "etapas":{
+        "edad antigua":{
+            "nombre":"Edad antigüa",
+            "años":"(3,300 A.C. - Siglo IV)",
+            "imagen": "https://www.nationalgeographic.pt/medio/import/attachment/edicoesespeciais/VIAGENS/Egipto/Piramides/e3.jpg",
+            "sillas":[
+                {
+                    "nombre": "Trono de Tutankhamon",
+                    "año": "1336 A.C.",
+                    "autor": "Egipto",
+                    "descripcion": "Trono elaborado en madera, oro y vidrio y piedras semipreciosas, su relevancia radica en lo detallado de su trabajo en comparación a las primeras sillas que eran más rústicas.",
+                    "imagen": "https://www.ecured.cu/images/f/fc/Trono_de_Tutankam%C3%B3n.jpg"
+                },
+                {
+                    "nombre": "Curul",
+                    "año": "753 A.C.",
+                    "autor": "Roma",
+                    "descripcion": "Silla plegable fabricado en marfil y cuero utilizada por autoridades del mismo nombre 'curul'. Silla diseñada para ser transportable e incómoda despúes de un tiempo.",
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNuWoiaPet_rZ0BoAP-h_hKekql-G5NbRcV9chl5X-fQnHyPt5Kvu0a-7cGdWpbS7mFt4&usqp=CAU"
+                },
+                {
+                    "nombre": "Klismos",
+                    "año": "600 A.C.",
+                    "autor": "Grecia",
+                    "descripcion": "Silla con patas cónicas plegadas hacia afuera y respaldo curvado. De composición ligera, era considerada una silla de reposo y entretenimiento.",
+                    "imagen": "https://i.pinimg.com/236x/0d/9a/94/0d9a94b5ba32a6bd7622204c4a24c008.jpg"
+                },
+                {
+                    "nombre": "Diphros",
+                    "año": "600 A.C.",
+                    "autor": "Grecia",
+                    "descripcion": "Taburete con patas torneadas plegables similar al Curul; pero, con un fin más doméstico. Realizado en madera y cuero, ligero y fácil de transportar.",
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnU58FPQceoiUCS2STb8LUgMCQmjyxwE5Bj3KQ5moFZyErUbEvMHMfueCRcLaS6MN_elY&usqp=CAU"
+                }
+            ]
+        },
+        "medioevo":{
+            "nombre":"Medioevo",
+            "años":"(Siglo IV - Siglo XV)",
+            "imagen": "https://s1.eestatic.com/2022/10/18/espana/madrid/711689404_228068311_1706x960.jpg",
+            "sillas":[
+                {
+                    "nombre": "Faldistorios",
+                    "año": "470",
+                    "autor": "Roma",
+                    "descripcion": "Taburete plegable con forma de x curvada, realizado en madera, marfil o metales con fines litúrgicos. Se recubría con un textil de distinto color según la ceremonia.",
+                    "imagen": "https://1.bp.blogspot.com/-re5DkrHXNpY/VRhHSXpiLOI/AAAAAAAACSM/fqL8xdONs1E/s1600/328.sgab.jpg"
+                },
+                {
+                    "nombre": "Arquibanco",
+                    "año": "470",
+                    "autor": "Desconocido",
+                    "descripcion": "Mueble mixto entre arcón y banca; donde se permitía almacenar cosas en la parte inferior y la tapa servía de asiento. Realizado principalmente en madera.",
+                    "imagen": "https://arsmagazine.com/wp-content/uploads/2022/12/522-scaled-e1672131451548.jpg"
+                },
+                {
+                    "nombre": "Cathedras / sitiales",
+                    "año": "800",
+                    "autor": "Desconocido",
+                    "descripcion": "Sillones especiales fabricados en madera únicamente para las autoridades religiosas de mayor rango. Con tallados relativos a lo eclesiástico en sus respaldos.",
+                    "imagen": "https://assets.catawiki.com/image/cw_normal/plain/assets/catawiki/assets/2020/5/21/3/8/5/38576ef1-59df-4c5a-8360-ecdf4047d6cf.jpg"
+                },
+                {
+                    "nombre": "Silla caja",
+                    "año": "1300",
+                    "autor": "Desconocido",
+                    "descripcion": "Sillas tipo trono utilizadas por la realeza. De construcción simple y decoradas con tallados en madera. Podían tener patas o una base cuadrada.",
+                    "imagen": "https://i.pinimg.com/originals/90/f2/94/90f2943ab4bd0e12e193bb8ed37a1e3d.png"
+                }
+            ]
+        },
+        "renacimiento":{
+            "nombre":"Renacimiento",
+            "años":"(Siglo XV - Siglo XVI)",
+            "imagen": "https://historia.nationalgeographic.com.es/medio/2019/12/12/06-baptisterio-san-giovanni-catedral-florencia_050781e3_1280x720.jpg",
+            "sillas":[
+                {
+                    "nombre": "Canapé",
+                    "año": "1610",
+                    "autor": "Francia",
+                    "descripcion": "Mueble con asiento y respaldo acolchado, cuerpo detallado y respaldo para los brazos.",
+                    "imagen": "https://cdn.storeden.net/secache/63eb99612026287f7f9c1d38"
+                },
+                {
+                    "nombre": "Sgabello",
+                    "año": "1515",
+                    "autor": "Italia",
+                    "descripcion": "Banco multiusos (banco, silla, taburete) fabricados en madera, con detalles en el respaldo y las bases. De significado hierático (solemne, religioso).",
+                    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Italian_16th_Century%2C_Walnut_Stool_%28Sgabello%29%2C_Carved_and_Gilded%2C_c._1540-1560%2C_NGA_1522.jpg/800px-Italian_16th_Century%2C_Walnut_Stool_%28Sgabello%29%2C_Carved_and_Gilded%2C_c._1540-1560%2C_NGA_1522.jpg"
+                },
+                {
+                    "nombre": "Cassone",
+                    "año": "1515",
+                    "autor": "Italia",
+                    "descripcion": "Arca amplia cuya tapa servía de asiento. Realizado en madera o metales, altamente detallado. Se colocaba junto a la cama matrimonial.",
+                    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Italian_-_%22Cassone%22_-_Walters_6535.jpg"
+                },
+                {
+                    "nombre": "Pancheta",
+                    "año": "1515",
+                    "autor": "Italia",
+                    "descripcion": "Silla trípode fabricada en madera, decorada y acolchada. Pionera en este estilo de soportes, con un respaldo que podía ser sencillo o adornado como sgabello.",
+                    "imagen": "https://c8.alamy.com/zooms/9/8f387dc5c7104c7a930b450907db2d0c/pb1bha.jpg"
+                }
+            ]
+        },
+        "pre modernidad":{
+            "nombre":"Pre-modernidad",
+            "años":"(Siglo XVI - 1900)",
+            "imagen": "https://cdn.getyourguide.com/img/tour/5936bb408a14b.jpeg/148.jpg",
+            "sillas":[
+                {
+                    "nombre": "Bergère en cabriolète",
+                    "año": "1643",
+                    "autor": "Francia",
+                    "descripcion": "Silla adornada cuya principal característica es la forma del reposa brazos el cual sigue el mismo diseño que las patas y se encuentra acolchado, como el asiento y el respaldo.",
+                    "imagen": "https://image.invaluable.com/housePhotos/Tajan/92/706892/H0965-L275340285_original.jpg"
+                },
+                {
+                    "nombre": "Hémicycle",
+                    "año": "1793",
+                    "autor": "Francia",
+                    "descripcion": "Sillón compuesto de dos sillas unidas en sentidos opuestos, hechos en madera, acolchados y detallados. Tiene un reposabrazos compartido y su uso era principalmente para socializar.",
+                    "imagen": "https://study.com/cimages/multimages/16/tete-a-tete_sofa7545685669829490030.jpg"
+                },
+                {
+                    "nombre": "Fauteuil de bureau",
+                    "año": "1799",
+                    "autor": "Francia",
+                    "descripcion": "Sillón de oficina cuya falta de un respaldo alto se consideró para permitir una mayor libertad de movimiento. En las patas se observa un saliente menor que facilitaba su desplazamiento.",
+                    "imagen": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/189339/490322/main-image"
+                },
+                {
+                    "nombre": "N° 14",
+                    "año": "1841",
+                    "autor": "Michael Thonet",
+                    "descripcion": "Silla emblema de la compañía Thonet, cuya principal característica es que fue realizada curvando la madera con vapor. Pensada para ser usada en bistros.",
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5pu-VLqFexBiTB5f1Sm9y4BJaTLVMeAOlg&usqp=CAU"
+                }
+            ]
+        },
+        "modernidad":{
+            "nombre":"Modernidad",
+            "años":"(1900 - actualidad)",
+            "imagen": "https://loving-newyork.com/wp-content/uploads/2018/09/Empire-State-Building-NYC_160914155540006-1600x960.jpg",
+            "sillas":[
+                {
+                    "nombre": "Silla paimio",
+                    "año": "1932",
+                    "autor": "Alvar Aalto",
+                    "descripcion": "Silla especialmente diseñada para apoyar en el tratamiento de la tuberculosis. Creada con madera laminada moldeada tanto en el asiento como en ambos soportes.",
+                    "imagen": "https://2.bp.blogspot.com/-euUuMFzG79o/TmkcNKD6_NI/AAAAAAAAJOs/frWsb2uKXqY/s1600/paimio%2B2.jpg"
+                },
+                {
+                    "nombre": "Lounge Chair and Ottoman",
+                    "año": "1956",
+                    "autor": "Charles y Ray Eames",
+                    "descripcion": "Conjunto de silla y taburete, fabricados en madera, acero y cuero para un ambiente de oficina. Inspirada en los guantes de baseball para su estética y forma.",
+                    "imagen": "https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/eames_lounge_chair_and_ottoman/mh_prd_ovw_eames_lounge_chair_and_ottoman.jpg.rendition.480.360.jpg"
+                },
+                {
+                    "nombre": "N° 14",
+                    "año": "1960",
+                    "autor": "Verner Panton",
+                    "descripcion": "Silla de una sola pieza, creada por medio de inyección de plástico. Fácil y barata de producir en masa. Dada su forma es sencillo guardar varias en un lugar reducido.",
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PQf25Qmxn-U-Rp6dztU_h4qDwt_T9nqePg&usqp=CAU"
+                },
+                {
+                    "nombre": "Wiggle Side Chair",
+                    "año": "1972",
+                    "autor": "Frank Gehry",
+                    "descripcion": "Realizada en cartón corrugado, esta silla es sorprendentemente liviana y resistente. Con una forma interesante, aplicable a cualquier espacio.",
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTtxfO31XVS9ba_rlkOnjOHzrrn23ztcI8qYuX_GR_rY0C8Q5-r3FL9ZIAWCvFmQb-VA&usqp=CAU"
+                }
+            ]
+        }
+    }
+}
